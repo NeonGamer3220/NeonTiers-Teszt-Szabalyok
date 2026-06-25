@@ -56,21 +56,21 @@ Kérj egy ellenfelet a meccsek csatornában, és pár mérkőzés után, meg fog
 
 ## Modok amelyek engedélyezetek/kiegészítők:
 
-> Low fire
-> minden olyan mod amely nem juttatt nagyobb előnyhöz és nem automatizálja a játékmeneted.
-> Consumable Optimizer
-> shield status mod
+> Low fire,
+> minden olyan mod amely nem juttatt nagyobb előnyhöz és nem automatizálja a játékmeneted,
+> Consumable Optimizer,
+> shield status mod.
 
 ## Tiltott modok/kiegészítők
 
-> Mouse tweeks
-> Dura pack
-> Tweekaro
-> Walksy Crystal Optimizer
-> Hack kliensek
-> Modok amelyek automatizálják a játékmeneted
-> Olyan modifikációk amelyed a pingedet befolyásolják.
-> Multi Keybinds
-> Tilos más kitett hoznod vagy plusz dolgokat bele tenni ahol van rá lehetőséged pl cpvp
-> Tilos a health indicator
-> Marlow's Crystal Optimizer
+> Mouse tweeks,
+> Dura pack,
+> Tweekaro,
+> Walksy Crystal Optimizer,
+> Hack kliensek,
+> Modok amelyek automatizálják a játékmeneted,
+> Olyan modifikációk amelyed a pingedet befolyásolják,
+> Multi Keybinds,
+> Tilos más kitett hoznod vagy plusz dolgokat bele tenni ahol van rá lehetőséged pl cpvp,
+> Tilos a health indicator,
+> Marlow's Crystal Optimizer.
