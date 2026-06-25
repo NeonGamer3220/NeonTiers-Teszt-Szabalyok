@@ -77,7 +77,7 @@ Kérj egy ellenfelet a meccsek csatornában, és pár mérkőzés után, meg fog
 
 # Tierlist bannok
 
-Szabályszegés	Alapidő	Megjegyzés
+### Szabályszegés	Alapidő	Megjegyzés
 
 Csalás (beleértve a tiltott modok/kliensek használatát)	2 hónap	+ tier wipe
 
