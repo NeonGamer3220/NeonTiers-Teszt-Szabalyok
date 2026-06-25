@@ -5,23 +5,23 @@ Kérj egy ellenfelet a meccsek csatornában, és pár mérkőzés után, meg fog
 
 > Minden gamemdoból itt van hány kört kell játszani:
 ----------------------------------------------------
-Vanilla            FT2, 1500 ELO alatt FT1
-DiaSMP             FT2, 1500 ELO alatt FT1
-OGV                FT2, 1500 ELO alatt FT1
-NethPot            FT2, 1500 ELO alatt FT1
-Mace               FT2, 1500 ELO alatt FT1
-SMP                FT2, 1500 ELO alatt FT1 
-Cart               FT2, 1500 ELO alatt FT1
-SpearMace          FT2, 1500 ELO alatt FT1
-SpearElytra        FT2, 1500 ELO alatt FT1
-ShieldlessUHC      FT2, 1500 ELO alatt FT1
-Trident            FT2, 1500 ELO alatt FT1
-Sword              FT2, 1500 ELO alatt FT1
-Uhc                FT2, 1500 ELO alatt FT1
-Pot                FT2, 1500 ELO alatt FT1
-Creeper            FT2, 1500 ELO alatt FT1
-Stick Fight        FT2, 1500 ELO alatt FT1
-Axe                FT2, 1500 ELO alatt FT1
+### Vanilla            FT2, 1500 ELO alatt FT1
+### DiaSMP             FT2, 1500 ELO alatt FT1
+### OGV                FT2, 1500 ELO alatt FT1
+### NethPot            FT2, 1500 ELO alatt FT1
+### Mace               FT2, 1500 ELO alatt FT1
+### SMP                FT2, 1500 ELO alatt FT1 
+### Cart               FT2, 1500 ELO alatt FT1
+### SpearMace          FT2, 1500 ELO alatt FT1
+### SpearElytra        FT2, 1500 ELO alatt FT1
+### ShieldlessUHC      FT2, 1500 ELO alatt FT1
+### Trident            FT2, 1500 ELO alatt FT1
+### Sword              FT2, 1500 ELO alatt FT1
+### Uhc                FT2, 1500 ELO alatt FT1
+### Pot                FT2, 1500 ELO alatt FT1
+### Creeper            FT2, 1500 ELO alatt FT1
+### Stick Fight        FT2, 1500 ELO alatt FT1
+### Axe                FT2, 1500 ELO alatt FT1
 ------------------------------------------------------
 
 # Teszt közbeni szabályzat ⚔️
