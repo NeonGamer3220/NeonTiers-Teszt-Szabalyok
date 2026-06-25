@@ -79,25 +79,25 @@ Kérj egy ellenfelet a meccsek csatornában, és pár mérkőzés után, meg fog
 
 ### Szabályszegés	Alapidő	Megjegyzés
 
-Csalás (beleértve a tiltott modok/kliensek használatát)	2 hónap	+ tier wipe
+Csalás (beleértve a tiltott modok/kliensek használatát)	1 hónap	+ ha úgy van tier wipe
 
-Valaki helyett valaki más játszik (account sharing)	6 hónap mindkét félnek	Csak az kap tier wipe-ot, akinek a profilján játszottak
+Valaki helyett valaki más játszik (account sharing)	3 hónap mindkét félnek Csak az kap tier wipe-ot, akinek a profilján játszottak
 
-Alt profillal való tesztelés	6 hónap	Alt profil törölve, eredeti profilon 6 hónapos ban (nincs tier wipe)
+Alt profillal való tesztelés 1 hónap	Alt profil törölve, eredeti profilon 1 hónapos ban
 
-Boostolás / megegyezés az eredményről	6 hónap mindkét félnek	+ tier wipe mindkét félnek
+Boostolás / megegyezés az eredményről	1 hónap + ha úgy van tier wipe
 
-SS megtagadása (ide tartozik a bizonyíték manipulálása/törlése is)	3 hónap	+ tier wipe
+SS megtagadása (ide tartozik a bizonyíték manipulálása/törlése is)	1 hónap
 
-Handcam megtagadása	3 hónap	+ tier wipe
+Handcam megtagadása	2 hónap + ha úgy van tier wipe
 
-Eredmény/videó hamisítása	6 hónap	
+Eredmény/videó hamisítása	2 hónap	
 
-Staff/Manager megtévesztése, hamis bejelentés	6 hónap	
+Staff/Manager megtévesztése, hamis bejelentés	1 hónap	
 
-Toxicitás / zaklatás / fenyegetés	1 hónap	
+Toxicitás / zaklatás / fenyegetés	14 nap
 
-Sandbagging (szándékos veszítés / tier-rendszer kijátszása)	6 hónap	
+Sandbagging (szándékos veszítés / tier-rendszer kijátszása)	1 hónap	
 
 Staff/teszter megvesztegetése vagy összejátszás	Örök kitiltás azonnal, mindkét félnek	Kívül esik a formulán; nincs alkalom számolás
 
