@@ -74,3 +74,37 @@ Kérj egy ellenfelet a meccsek csatornában, és pár mérkőzés után, meg fog
 > Tilos más kitett hoznod vagy plusz dolgokat bele tenni ahol van rá lehetőséged pl cpvp,
 > Tilos a health indicator,
 > Marlow's Crystal Optimizer.
+
+# Tierlist bannok
+
+Szabályszegés	Alapidő	Megjegyzés
+
+Csalás (beleértve a tiltott modok/kliensek használatát)	2 hónap	+ tier wipe
+Valaki helyett valaki más játszik (account sharing)	6 hónap mindkét félnek	Csak az kap tier wipe-ot, akinek a profilján játszottak
+Alt profillal való tesztelés	6 hónap	Alt profil törölve, eredeti profilon 6 hónapos ban (nincs tier wipe)
+Boostolás / megegyezés az eredményről	6 hónap mindkét félnek	+ tier wipe mindkét félnek
+SS megtagadása (ide tartozik a bizonyíték manipulálása/törlése is)	3 hónap	+ tier wipe
+Handcam megtagadása	3 hónap	+ tier wipe
+Eredmény/videó hamisítása	6 hónap	
+Staff/Manager megtévesztése, hamis bejelentés	6 hónap	
+Toxicitás / zaklatás / fenyegetés	1 hónap	
+Sandbagging (szándékos veszítés / tier-rendszer kijátszása)	6 hónap	
+Staff/teszter megvesztegetése vagy összejátszás	Örök kitiltás azonnal, mindkét félnek	Kívül esik a formulán; nincs alkalom számolás
+
+# Extra információk
+
+## Új minecraft név
+
+Ha új minecraft neved van, a discordon írd be hogy /unlink, miután unlinkelted a fiókod, írd be hogy /link, ilyenkor fogsz kapni egy kódot, amelyet 10 percen belül kell felhasználnod a chaosffa.kinetic.host szerveren a /link kód parancsal, ezután kérhetsz ELO meccseket!
+
+## Unretire
+
+Az UnRetire lehetővé teszi, hogy egy korábban retire-olt játékos ismét aktív játékos legyen.
+
+Az UnRetire folyamata abból a tierből indul, amelyben retire-oltál:
+
+Egy azonos tierű játékos ellen kell menned, és meg kell szerezned ellene a 80%-os winrate-et. Ha sikerül, visszakerülsz abba a tierbe.
+Ha nem sikerül a 80%, az eggyel lejjebbi tierű játékos ellen kell próbálkoznod, és így tovább lefelé egészen HT3-ig.
+Ha HT3-on sem sikerül a 80%, választhatsz:
+- Megtartod a retiret és inaktív maradsz.
+- Elveszíted a tieredet az adott gamemódban, és részt vehetsz a sima eval teszteken.
