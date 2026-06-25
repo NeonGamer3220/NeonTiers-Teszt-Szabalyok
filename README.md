@@ -1,1 +1,0 @@
-# NeonTiers-Teszt-Szabalyok
